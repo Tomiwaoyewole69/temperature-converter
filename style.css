@@ -19,13 +19,9 @@ select {
 .enter-field>input {
   margin-right: 10px;
 }
-.container{
-  display: flex;
-  flex-direction: column;
-}
 .container>div:first-child{
   margin-bottom: 20px;
 }
 .result-field{
-  align-self: center;
+  text-align: center;
 }
